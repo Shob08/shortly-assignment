@@ -1,6 +1,5 @@
 import React from 'react';
 import '../css/Intro.css';
-import AuthButton from './AuthButton.js';
 import ImgWorking from '../../assets/people working.svg';
 
 const Intro = () => {
