@@ -1,7 +1,7 @@
 # Shortly
 
 A website for shortening URLs built using ReactJS and the [Shortcode API](https://api.shrtco.de/v2)
-You can view the site live [here.]()
+You can view the site live [here.](https://main--startling-marzipan-41469d.netlify.app/)
 
 ## To run locally
 
